@@ -1,1 +1,0 @@
-Este es el archivo 4 desde GitHub para comprobar cómo funciona git pull
